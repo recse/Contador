@@ -24,7 +24,7 @@ https://goofy-haibt-5f312e.netlify.app/
 ```
 #cd Contador
 ```
-3) Now upload all content to your website using ftp or ssh:.
+3) Finally, upload all content to your website using ftp or ssh.
 
 ## How it works? ⚙️
 
